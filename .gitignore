@@ -5,3 +5,5 @@ db.sqlite3
 .env
 entregas/
 informe/Apellido_Nombre_Trabajo_Unidad3.docx
+informe/capturas/captura.log
+informe/capturas/estado.json
